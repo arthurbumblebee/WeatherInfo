@@ -5,7 +5,7 @@ import android.app.Application;
 import io.realm.Realm;
 import io.realm.RealmConfiguration;
 
-class WeatherApplication extends Application {
+public class WeatherApplication extends Application {
 
     private Realm realCities;
 
